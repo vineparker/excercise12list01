@@ -6,12 +6,12 @@ class Main {
 
     Scanner input = new Scanner(System.in);
 
-    // declaração da variáveis 
+    // declaração da variáveis
     int cons2 = 58;
     float cons1 = (float) 72.7;
     
 
-    // informe o raio de um circulo
+    // peça a altura
     String textoUm = "Insira a sua altura (m): ";
     System.out.print(textoUm);
     float altura = input.nextFloat();
